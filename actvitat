@@ -1,0 +1,7 @@
+
+def main():
+llista=[x for x in range (31)if x%2==0]
+print(llista)
+
+if __name__ == '__main__':
+   main()
